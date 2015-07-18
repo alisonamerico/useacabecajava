@@ -1,5 +1,4 @@
 /**
- * Classe com os Atributos e Metodos
  * @author esdras
 */
 public class BeerSong {
