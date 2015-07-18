@@ -1,5 +1,5 @@
 /**
- * @author esdras
+ * @author Esdras Cavalcanti
  */
 public class PhraseOMatic {
     
@@ -8,7 +8,7 @@ public class PhraseOMatic {
     String[] wordListTwo = {"ParseInt", "EJB", "JSF", "JVM"};
     String[] wordListThree = {"Final", "JDBC", "Connection"};
     
-    public static void main(String[] args){
+    public void phraseOMatic(){
         
         //Descobrindo quantas palavras estao no Array
         int oneLength = wordListOne.length;
