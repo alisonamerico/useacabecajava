@@ -1,3 +1,7 @@
+/**
+ * Classe com os Atributos e Metodos
+ * @author esdras
+*/
 public class BeerSong {
 
 	public static void main(String[] args) {
