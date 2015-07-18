@@ -1,5 +1,5 @@
 /**
- * @author esdras
+ * @author Esdras Cavalcanti
 */
 public class BeerSong {
 
